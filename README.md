@@ -1,1 +1,3 @@
 "# Solidity" 
+
+Learning Solidity.
